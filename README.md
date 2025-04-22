@@ -1,3 +1,18 @@
+# 📘 Course Info
+
+**Course**: PCMLAI (Section-D)  
+**End Date**: March 2025  
+
+---
+
+**👤 Student**: *Gopikrishna Putti*
+
+---
+
+**🔗 Project Notebook**:  
+[Capstone Project - GitHub](https://github.com/gputti/PCMLAI_capstone/blob/main/capstone_project.ipynb)
+
+
 # PCMLAI_capstone
 PCMLAI capstone customer conversation sentiment analysis
 
