@@ -114,4 +114,4 @@ Metrics evaluated for each model:
 - Deep learning showed promise for scaling up and deployment in real-world production environments.
 
 ---
-
+## Also model file is available at: https://github.com/gputti/PCMLAI_capstone/blob/main/classifier_model.keras
